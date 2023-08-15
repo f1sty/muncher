@@ -6,10 +6,10 @@ File appender service application.
 
 To play around with app, just type:
 
-```sh
+```bash
 $ docker build -t muncher .
 $ docker run -it --rm muncher /bin/bash
-# /muncher/bin/muncher console
+$ /muncher/bin/muncher console
 ```
 
 in your shell, and try this:
